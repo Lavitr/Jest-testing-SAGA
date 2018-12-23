@@ -14,7 +14,7 @@ npm install
 
 ## Available Commands
 
-"test": "jest",
-"test:watch": "npm test -- --watch", 
-"test:coverage": "jest --coverage"
+ npm test
+ npm run test:watch
+ npm run test:coverage   
 
