@@ -11,10 +11,11 @@ Simple example of Jest testing for React connected components, Redux, Redux-Saga
 git clone https://github.com/Lavitr/Jest-testing-SAGA.git
 cd React-Redux-SAGA-tutorial-APP
 npm install
+```
 
 ## Available Commands
-
+```
  npm test
  npm run test:watch
  npm run test:coverage   
-
+```
